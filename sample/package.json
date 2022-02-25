@@ -1,0 +1,16 @@
+{
+  "name": "support-ukrain",
+  "version": "0.0.0",
+  "description": "A few bytes SVG ribbon to support ukrain",
+  "main": "index.js",
+  "repository": "https://github.com/adaltas/support-ukrain",
+  "author": "Adaltas",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  },
+  "scripts": {
+    "serve": "npx http-server -p 3000 -d .."
+  }
+}
