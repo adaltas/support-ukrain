@@ -5,7 +5,7 @@ Support Ukrain by inserting a ribbon on you site. View an example on [our websit
 
 Top right alignment:
 
-<img src="https://raw.githubusercontent.com/adaltas/support-ukrain/main/sample/top-left.png" style="width:10rem" />
+<img src="https://raw.githubusercontent.com/adaltas/support-ukrain/main/sample/top-right.png" style="width:10rem" />
 
 
 
